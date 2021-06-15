@@ -1,2 +1,5 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler Code
 #weeklyscheduler
+
+# created with 
+* Javascript, HTML, and CSS
